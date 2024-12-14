@@ -1,0 +1,146 @@
+Employee Name,Gender,Primary Job Title,Department Name,College Code,College Name,Present FTE,Proposed FTE,Present Salary,Proposed Salary,Tenure,Empl Class,Secondary Job Titles,Secondary Department Names
+"Abdelzaher, Tarek",M,PROF,Computer Science,KP,Grainger Engineering,1,1,220000,228800,A,AA,"['PROF, CSL', 'PROF, ITI']","['Coordinated Science Lab', 'Information Trust Institute']"
+"Adve, Sarita V",F,PROF,Computer Science,KP,Grainger Engineering,1,1,230000,240000,A,AA,"['PROF, CSL', 'PROF, ITI']","['Coordinated Science Lab', 'Electrical & Computer Eng', 'Information Trust Institute']"
+"Adve, Vikram Sadanand",M,PROF,Computer Science,KP,Grainger Engineering,1,1,230000,240000,A,AA,"['PROF, CSL', 'PROF, ITI', 'PROF, NCSA']","['Coordinated Science Lab', 'Information Trust Institute', 'Supercomputing Applications']"
+"Alagappan, Ramnatthan",M,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,135000,140400,P,AA,,
+"Alawini, Abdussalam Alhadi M",M,TCH ASSOC PROF,Computer Science,KP,Grainger Engineering,1,1,138000,153600,M,AA,,
+"Amato, Nancy Marie",F,PROF,Computer Science,KP,Grainger Engineering,1,1,293100,309775,A,AA,"['HEAD', 'PROF, CSL', 'PROF, HCESC', 'AFFILIATE, IGB', 'PROF, NCSA']","['Coordinated Science Lab', 'Institute for Genomic Biology', 'Supercomputing Applications']"
+"Angrave, Lawrence Christopher",M,TCH PROF,Computer Science,KP,Grainger Engineering,1,1,160000,171000,M,AA,,
+"Bailey, Brian P",M,PROF,Computer Science,KP,Grainger Engineering,1,1,207500,215500,A,AA,"['DIR ACAD COMM GCOE CHICAGO', 'PROF, ITI']","['Engineering Administration', 'Information Trust Institute']"
+"Banerjee, Arindam",M,PROF,Computer Science,KP,Grainger Engineering,1,1,200000,208000,A,AA,,['Electrical & Computer Eng']
+"Beckman, Mattox Alan",M,TCH ASSOC PROF,Computer Science,KP,Grainger Engineering,1,1,150000,156000,M,AA,,
+"Bravo De Guenni, Lelys",F,CLIN ASSOC PROF,Statistics,KV,Liberal Arts & Sciences,1,1,100000,105000,,AA,,['Latin American & Carib Studies']
+"Caesar, Matthew Chapman",M,PROF,Computer Science,KP,Grainger Engineering,1,1,185000,192400,A,AA,"['PROF, CSL', 'PROF, ITI']","['Coordinated Science Lab', 'Electrical & Computer Eng', 'Information Trust Institute']"
+"Challen, Geoffrey Werner",M,TCH ASSOC PROF,Computer Science,KP,Grainger Engineering,1,1,155000,161200,M,AA,,
+"Chan, Timothy Moon-Yew",M,PROF,Computer Science,KP,Grainger Engineering,1,1,212449,220947,A,AA,,
+"Chandrasekharan, Eshwar",M,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,137000,142480,P,AA,,['European Union Center']
+"Chang, Kevin Chenchuan",M,PROF,Computer Science,KP,Grainger Engineering,1,1,160000,166400,A,AA,"['CSBS AFFILIATE', 'PROF, NCSA']","['Electrical & Computer Eng', 'Interdis Health Sci Institute', 'Supercomputing Applications']"
+"Chatterjee, Sabyasachi",M,ASST PROF,Statistics,KV,Liberal Arts & Sciences,1,1,108230.36,112559.57,P,AA,,
+"Chekuri, Chandra Sekhar",M,PROF,Computer Science,KP,Grainger Engineering,1,1,210000,218400,A,AA,,
+"Chen, Yuguo",M,PROF,Statistics,KV,Liberal Arts & Sciences,1,1,178286.43,185017.89,A,AA,"['PROF, CSL', 'PROF, ITI', 'DIR OF APPL RES & CONSULTING']","['Coordinated Science Lab', 'Information Trust Institute']"
+"Chronopoulou, Alexandra",F,CLIN ASSOC PROF,Statistics,KV,Liberal Arts & Sciences,1,1,105570,109792.8,,AA,['CSBS AFFILIATE'],"['Coordinated Science Lab', 'Interdis Health Sci Institute']"
+"Clement, Kit",M,TCH ASST PROF,Statistics,KV,Liberal Arts & Sciences,1,1,90000,90000,,AA,,
+"Cobb, Camille Morgan",F,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,136000,141440,P,AA,,
+"Cosman, Benjamin Leverett",M,TCH ASST PROF,Computer Science,KP,Grainger Engineering,1,1,137000,142480,M,AA,,
+"Culpepper, Steven Andrew",M,PROF,Statistics,KV,Liberal Arts & Sciences,1,1,158127.3,164452.39,A,AA,"['DATA SCI FNDR PRFNL SCHOLAR', 'PROF, BECKMAN INST']","['Educational Psychology', 'Psychology', 'Beckman Institute']"
+"Cunningham, Kathryn Irene",F,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,135000,140400,P,AA,,
+"Cunningham, Ryan Matthew",M,LECTURER,Computer Science,KP,Grainger Engineering,1,1,100000,104000,M,AA,,
+"Dalpiaz, David M",M,TCH ASSOC PROF,Statistics,KV,Liberal Arts & Sciences,1,1,107681.4,118988.66,,AA,,
+"Dayanikli, Gokce",F,ASST PROF,Statistics,KV,Liberal Arts & Sciences,1,1,118000,118000,P,AA,,
+"Deeke, Julie M",F,TCH ASST PROF,Statistics,KV,Liberal Arts & Sciences,1,1,90045,93646.8,,AA,,
+"Delgosha, Payam",M,RES ASST PROF,Computer Science,KP,Grainger Engineering,1,1,137000,142480,M,AA,,
+"Douglas, Jeffrey A",M,PROF,Statistics,KV,Liberal Arts & Sciences,1,1,175617.98,183269.53,A,AA,['ASSOC CHAIR'],"['Educational Psychology', 'Psychology']"
+"Eck, Daniel J",M,ASST PROF,Statistics,KV,Liberal Arts & Sciences,1,1,105570,109792.8,P,AA,,
+"Eddelbuettel, Dirk",M,ADJ CLIN PROF,Statistics,KV,Liberal Arts & Sciences,0.25,0.25,34653.35,36039.48,,AB,,
+"El-Kebir, Mohammed",M,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,140000,145600,P,AA,"['AFFILIATE, IGB']","['Electrical & Computer Eng', 'Institute for Genomic Biology']"
+"Ellison, Victoria Marie",F,TCH ASST PROF,Statistics,KV,Liberal Arts & Sciences,1,1,90134.5,93739.88,,AA,,
+"Erickson, Jeff G",M,PROF,Computer Science,KP,Grainger Engineering,1,1,205000,213200,A,AA,,
+"Evans, Graham Carl",M,TCH ASST PROF,Computer Science,KP,Grainger Engineering,1,1,138000,143520,M,AA,,
+"Fagen-Ulmschneider, Wade A",M,TCH PROF,Computer Science,KP,Grainger Engineering,1,1,155000,167000,M,AA,,['Statistics']
+"Fellouris, Georgios",M,ASSOC PROF,Statistics,KV,Liberal Arts & Sciences,1,1,120681,129508.24,A,AA,"['ASSOC PROF, CSL']","['Coordinated Science Lab', 'Electrical & Computer Eng']"
+"Findley, Kelly Patrick",M,TEACHING ASSOC PROF,Statistics,KV,Liberal Arts & Sciences,1,1,92329.19,104022.36,,AA,,
+"Fischer, Paul",M,PROF,Computer Science,KP,Grainger Engineering,1,1,204414,212990,A,AA,,['Mechanical Sci & Engineering']
+"Flanagan, Karle Ann",F,TCH ASSOC PROF,Statistics,KV,Liberal Arts & Sciences,1,1,104000,115760,,AA,['DIR INCLSV DATA SCI ED'],['LAS Administration']
+"Fleck, Margaret M",F,TEACHING PROF,Computer Science,KP,Grainger Engineering,1,1,165000,175526,M,AA,['RES ASSOC PROF'],
+"Fletcher, Christopher Wardlaw",M,ASSOC PROF,Computer Science,KP,Grainger Engineering,1,1,140000,153600,A,AA,,
+"Forbes, Michael A",M,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,137000,142480,P,AA,,
+"Forsyth, David Alexander",M,PROF,Computer Science,KP,Grainger Engineering,1,1,250000,260625,A,AA,"['PROF, ITI']","['Electrical & Computer Eng', 'Information Trust Institute']"
+"Ganesan, Aishwarya",F,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,135000,140400,P,AA,,
+"Gertner, Yael",F,TCH ASST PROF,Computer Science,KP,Grainger Engineering,1,1,137000,142480,M,AA,,
+"Ghose, Saugata",M,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,137000,142480,P,AA,"['ASST PROF, CSL']","['Coordinated Science Lab', 'Electrical & Computer Eng']"
+"Glosemeyer, Darren William",M,SR INSTR,Statistics,KV,Liberal Arts & Sciences,1,1,129264.9,135035.5,,AL,"[""DIR OF MASTER'S PRGM""]",
+"Godfrey, Philip B",M,PROF,Computer Science,KP,Grainger Engineering,1,1,195000,202800,A,AA,"['PROF, CSL', 'PROF, ITI']","['Coordinated Science Lab', 'Information Trust Institute']"
+"Gropp, William D",M,PROF,Computer Science,KP,Grainger Engineering,1,1,323500,335540,A,AA,"['PROF, CSL', 'DIR OF THE CESC', 'DIR, NCSA']","['Coordinated Science Lab', 'Electrical & Computer Eng', 'Supercomputing Applications', 'Information Sciences']"
+"Gui, Liangyan",F,RES ASST PROF,Computer Science,KP,Grainger Engineering,1,1,137000,142480,M,AA,,
+"Gunter, Carl",M,PROF,Computer Science,KP,Grainger Engineering,1,1,230000,239200,A,AA,"['PROF, CSL', 'PROF, ITI']","['Coordinated Science Lab', 'Information Trust Institute']"
+"Gunter, Elsa",F,SR LECTURER,Computer Science,KP,Grainger Engineering,1,1,170000,178000,M,AA,"['RES PROF', 'RES PROF, ITI']",['Information Trust Institute']
+"Gupta, Indranil",M,PROF,Computer Science,KP,Grainger Engineering,1,1,200000,208000,A,AA,"['PROF, CSL', 'PROF, ITI']","['Coordinated Science Lab', 'Electrical & Computer Eng', 'Information Trust Institute']"
+"Han, Jiawei",M,PROF,Computer Science,KP,Grainger Engineering,1,1,250000,260625,A,AA,"['PROF, ITI', 'AFFILIATE, IGB']","['Information Trust Institute', 'Institute for Genomic Biology']"
+"Har-Peled, Sariel",M,PROF,Computer Science,KP,Grainger Engineering,1,1,205000,213200,A,AA,,
+"Hart, John C",M,PROF,Computer Science,KP,Grainger Engineering,1,1,197817,205730,A,AA,,
+"Hauser, Kristoffer Karl",M,PROF,Computer Science,KP,Grainger Engineering,1,1,195000,204750,A,AA,"['PROF, CSL']","['Coordinated Science Lab', 'Electrical & Computer Eng', 'Mechanical Sci & Engineering']"
+"Heath, David Anthony",M,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,135000,140400,P,AA,,
+"Herman, Geoffrey Lindsay",M,TCH ASSOC PROF,Computer Science,KP,Grainger Engineering,1,1,155000,161200,M,AA,,
+"Hockenmaier, Julia Constanze",F,PROF,Computer Science,KP,Grainger Engineering,1,1,195000,203280,A,AA,"['PROF, CSL']","['Coordinated Science Lab', 'Linguistics']"
+"Hoiem, Derek W",M,PROF,Computer Science,KP,Grainger Engineering,1,1,195000,203280,A,AA,"['PROF, CSL']","['Coordinated Science Lab', 'Electrical & Computer Eng']"
+"Jabbarvand Behrouz, Reyhaneh",F,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,137000,142480,P,AA,,
+"Jacobson, Sheldon Howard",M,PROF,Computer Science,KP,Grainger Engineering,1,1,208670,217017,A,AA,"['PROF, CI MED']","['Biomed & Translational Sci', 'Electrical & Computer Eng', 'Industrial&Enterprise Sys Eng', 'Mathematics', 'Statistics']"
+"Ji, Heng",F,PROF,Computer Science,KP,Grainger Engineering,1,1,207500,217875,A,AA,"['PROF, CSL']",['Coordinated Science Lab']
+"Jiang, Nan",M,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,139000,144560,P,AA,,['Electrical & Computer Eng']
+"Karahalios, Kyratso George",F,PROF,Computer Science,KP,Grainger Engineering,1,1,207500,215800,A,AA,"['PROF, CSL', 'PROF, ITI', 'PROF, NCSA']","['Coordinated Science Lab', 'Electrical & Computer Eng', 'Information Trust Institute', 'Supercomputing Applications', 'Information Sciences']"
+"Khurana, Dakshita",F,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,138000,143520,P,AA,,
+"Kinson, Christopher LeRon",M,TEACHING ASSOC PROF,Statistics,KV,Liberal Arts & Sciences,1,1,91313.83,101966.38,,AA,,
+"Kloeckner, Andreas Paul Eberhard",M,ASSOC PROF,Computer Science,KP,Grainger Engineering,1,1,159000,167360,A,AA,,['Electrical & Computer Eng']
+"Kravets, Robin Hillary",F,PROF,Computer Science,KP,Grainger Engineering,1,1,202500,210300,A,AA,"['DIR OF GRAD PRGMS', 'PROF, CSL', 'PROF, ITI']","['Coordinated Science Lab', 'Electrical & Computer Eng', 'Information Trust Institute']"
+"Kumar, Ranjitha",F,ASSOC PROF,Computer Science,KP,Grainger Engineering,1,1,157000,165280,A,AA,,['Electrical & Computer Eng']
+"Lavalle, Steven M",M,PROF,Computer Science,KP,Grainger Engineering,0.1,0.1,16700,17368,A,AB,"['PROF, CSL', 'PROF, ITI']","['Coordinated Science Lab', 'Information Trust Institute']"
+"Lazebnik, Svetlana",F,PROF,Computer Science,KP,Grainger Engineering,1,1,195000,202800,A,AA,,['Electrical & Computer Eng']
+"Lee, Hyoeun",M,CLIN ASST PROF,Statistics,KV,Liberal Arts & Sciences,1,1,91000,94640,,AA,,
+"Lewis, Colleen Marie",F,ASSOC PROF,Computer Science,KP,Grainger Engineering,1,1,155000,163200,A,AA,,
+"Li, Bo",F,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,140000,145600,P,AA,"['ASST PROF, ITI']","['Electrical & Computer Eng', 'Information Trust Institute']"
+"Li, Bo",F,PROF,Statistics,KV,Liberal Arts & Sciences,1,1,179757.53,192472.18,A,AA,"['CHAIR STATISTICS', 'PROF, NCSA']",['Supercomputing Applications']
+"Liang, Feng",F,PROF,Statistics,KV,Liberal Arts & Sciences,1,1,155409.36,161625.73,A,AA,"['PROF, ITI']",['Information Trust Institute']
+"Liu, Hongye",F,TCH ASST PROF,Computer Science,KP,Grainger Engineering,1,1,137000,142480,M,AA,,
+"Liu, Jingbo",M,ASST PROF,Statistics,KV,Liberal Arts & Sciences,1,1,110848.5,118282.44,P,AA,,['Electrical & Computer Eng']
+"Marinov, Darko",M,PROF,Computer Science,KP,Grainger Engineering,1,1,203750,212250,A,AA,"['ASSOC DIR GRAD PRGMS', 'PROF, ITI']",['Information Trust Institute']
+"Mehta, Ruta",F,ASSOC PROF,Computer Science,KP,Grainger Engineering,1,1,140000,155875,A,AA,,
+"Mendis, Thirimadura Charith Yasendra",M,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,136000,141440,P,AA,,
+"Meseguer, Jose",M,PROF,Computer Science,KP,Grainger Engineering,1,1,217415,226112,A,AA,"['PROF, ITI']",['Information Trust Institute']
+"Misailovic, Sasa",M,ASSOC PROF,Computer Science,KP,Grainger Engineering,1,1,153000,161120,A,AA,,['Electrical & Computer Eng']
+"Morales Aguirre, Marco Antonio",M,TCH ASSOC PROF,Computer Science,KP,Grainger Engineering,0.5,0.5,76000,79040,M,AA,,
+"Nahrstedt, Klara",F,PROF,Computer Science,KP,Grainger Engineering,1,1,285000,295800,A,AA,"['PROF, CI MED', 'DIR, CSL', 'PROF, CSL', 'PROF, ITI', 'PROF, NCSA']","['Biomed & Translational Sci', 'Coordinated Science Lab', 'Electrical & Computer Eng', 'Information Trust Institute', 'Supercomputing Applications']"
+"Narisetty, Naveennaidu",M,ASSOC PROF,Statistics,KV,Liberal Arts & Sciences,1,1,117762.2,122472.69,A,AA,"['AFFILIATE, IGB']",['Institute for Genomic Biology']
+"Nowak, Michael",M,TCH ASST PROF,Computer Science,KP,Grainger Engineering,1,1,137000,142480,M,AA,,
+"Olson, Luke",M,PROF,Computer Science,KP,Grainger Engineering,1,1,215000,223000,A,AA,"['DIR, CSE', 'WILLETT FACULTY SCHOLAR', 'PROF, NCSA']","['Computational Science & Engr', 'Mechanical Sci & Engineering', 'Supercomputing Applications']"
+"Park, Trevor H",M,CLIN ASSOC PROF,Statistics,KV,Liberal Arts & Sciences,1,1,104671.92,108858.8,M,AA,,
+"Park, Yongjoo",M,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,137000,142480,P,AA,"['ASST PROF, NCSA']",['Supercomputing Applications']
+"Parthasarathy, Madhusudan",M,PROF,Computer Science,KP,Grainger Engineering,1,1,190000,197600,A,AA,"['PROF, ITI']","['Electrical & Computer Eng', 'Information Trust Institute']"
+"Peng, Jian",M,ASSOC PROF,Computer Science,KP,Grainger Engineering,1,1,157000,163280,A,AA,"['ASSOC PROF, CI MED', 'ASSOC PROF, NCSA']","['Biomed & Translational Sci', 'Supercomputing Applications']"
+"Rao, Vimal V",M,TCH ASST PROF,Statistics,KV,Liberal Arts & Sciences,1,1,90000,90000,,AA,,
+"Rauchwerger, Lawrence",M,PROF,Computer Science,KP,Grainger Engineering,1,1,216418,225075,A,AA,"['PROF, CSL', 'PROF, NCSA']","['Coordinated Science Lab', 'Supercomputing Applications']"
+"Rehg, James Matthew",M,PROF,Computer Science,KP,Grainger Engineering,1,1,250000,259400,A,AA,"['PROF, CSL', 'DIR, HCESC']","['Coordinated Science Lab', 'Engineering Administration', 'Industrial&Enterprise Sys Eng']"
+"Ren, Ling",M,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,138000,143520,P,AA,,['Electrical & Computer Eng']
+"Ringer, Talia Lily",F,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,136000,141440,P,AA,,
+"Rosu, Grigore",M,PROF,Computer Science,KP,Grainger Engineering,1,1,195000,202800,A,AA,"['PROF, ITI']",['Information Trust Institute']
+"Schatz, Jule",F,TCH ASST PROF,Computer Science,KP,Grainger Engineering,1,1,135000,135000,,AA,,
+"Sha, Lui Raymond",M,PROF,Computer Science,KP,Grainger Engineering,1,1,250000,260000,A,AA,"['PROF, CSL', 'PROF, ITI']","['Coordinated Science Lab', 'Electrical & Computer Eng', 'Information Trust Institute']"
+"Shaffer, Eric Gene",M,TCH ASSOC PROF,Computer Science,KP,Grainger Engineering,1,1,152000,158080,M,AA,,
+"Shao, Xiaofeng",M,PROF,Statistics,KV,Liberal Arts & Sciences,1,1,176520.28,186181.09,A,AA,"['DATA SCI FNDR PRFNL SCHOLAR', 'DIR OF PHD PRGM']",
+"Silva, Mariana Teixeira",F,TCH ASSOC PROF,Computer Science,KP,Grainger Engineering,1,1,152000,158080,,AA,,['Lemann Center']
+"Simpson, Douglas G",M,PROF,Statistics,KV,Liberal Arts & Sciences,1,1,189729.79,197318.98,A,AA,"['PROF, BECKMAN INST']",['Beckman Institute']
+"Singh, Gagandeep",M,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,136000,141440,P,AA,,
+"Sinha, Makrand",M,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,135000,135000,P,AA,,
+"Smaragdis, Paris",M,PROF,Computer Science,KP,Grainger Engineering,1,1,210500,219120,A,AA,"['ASSOC HEAD', 'PROF, CSL']","['Coordinated Science Lab', 'Electrical & Computer Eng']"
+"Solomon, Brad R",M,TCH ASST PROF,Computer Science,KP,Grainger Engineering,1,1,137000,142480,M,AA,,
+"Solomonik, Edgar Vadimovich",M,ASSOC PROF,Computer Science,KP,Grainger Engineering,1,1,153000,161120,A,AA,,
+"Soltanaghaei Koupaei, Elaheh",F,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,136000,141440,P,AA,"['ASST PROF, CSL', 'ASST PROF, NCSA']","['Coordinated Science Lab', 'Electrical & Computer Eng', 'Supercomputing Applications']"
+"Stepanov, Alexey G",M,SR LECTURER,Statistics,KV,Liberal Arts & Sciences,1,1,100004.19,105822.36,,AA,,
+"Sterman, Sarah Gimbert",F,RES ASST PROF,Computer Science,KP,Grainger Engineering,1,1,135000,140400,M,AA,,
+"Sun, Jimeng",M,PROF,Computer Science,KP,Grainger Engineering,1,1,206492.36,214752.05,A,AA,,['Biomed & Translational Sci']
+"Sundaram, Hari",M,PROF,Computer Science,KP,Grainger Engineering,1,1,185000,192400,A,AA,['CSBS AFFILIATE'],"['Advertising', 'Inst of Communications Rsch', 'Interdis Health Sci Institute']"
+"Tahboub, Ruby",F,TCH ASST PROF,Computer Science,KP,Grainger Engineering,1,1,135000,140400,M,AA,,
+"Telgarsky, Matus Jan",M,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,140000,145600,P,AA,,['Electrical & Computer Eng']
+"Tong, Hanghang",M,ASSOC PROF,Computer Science,KP,Grainger Engineering,1,1,159000,167360,A,AA,,
+"Torrellas, Josep",M,PROF,Computer Science,KP,Grainger Engineering,1,1,235000,245000,A,AA,"['PROF, CSL', 'PROF, ITI']","['Coordinated Science Lab', 'Electrical & Computer Eng', 'Information Trust Institute']"
+"Tychonievich, Luther A",M,TCH ASSOC PROF,Computer Science,KP,Grainger Engineering,1,1,155000,161200,M,AA,,
+"Unger, David",M,SR INSTR,Statistics,KV,Liberal Arts & Sciences,1,1,117989.8,123309.39,,AL,['DIR OF UGRAD PRGM'],
+"Vasisht, Deepak",M,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,137000,142480,P,AA,"['ASST PROF, CSL']","['Coordinated Science Lab', 'Electrical & Computer Eng']"
+"Viswanathan, Mahesh",M,PROF,Computer Science,KP,Grainger Engineering,1,1,207500,217500,A,AA,"['ASSOC HEAD', 'PROF, ITI']",['Information Trust Institute']
+"Wang, Gang",M,ASSOC PROF,Computer Science,KP,Grainger Engineering,1,1,140000,155875,A,AA,,['Electrical & Computer Eng']
+"Wang, Michelle Yongmei",F,ASSOC PROF,Statistics,KV,Liberal Arts & Sciences,1,1,89535.25,89535.25,A,AA,"['ASSOC PROF, BECKMAN INST']","['Bioengineering', 'Center for Global Studies', 'Psychology', 'Beckman Institute']"
+"Wang, Shenlong",M,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,136000,141440,P,AA,"['ASST PROF, CSL']","['Coordinated Science Lab', 'Electrical & Computer Eng']"
+"Wang, Shulei",M,ASST PROF,Statistics,KV,Liberal Arts & Sciences,1,1,111348.5,118802.44,P,AA,"['AFFILIATE, PNI']","['Nutritional Sciences', 'Institute for Genomic Biology']"
+"Wang, Yuxiong",M,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,137000,142480,P,AA,,['Electrical & Computer Eng']
+"Warnow, Tandy",F,PROF,Computer Science,KP,Grainger Engineering,1,1,282500,293125,A,AA,"['ASSOC HEAD', 'PROF, CSL', 'DEPT AFFL', 'PROF, IGB', 'PROF, NCSA', 'CO-CHIEF SCI, C3.AI DTI']","['Bioengineering', 'Coordinated Science Lab', 'Entomology', 'Mathematics', 'Statistics', 'Unit For Criticism', 'Institute for Genomic Biology', 'Supercomputing Applications', 'OVCRI Admin']"
+"Williams, Tiffani L",F,TCH PROF,Computer Science,KP,Grainger Engineering,1,1,177500,185500,M,AA,['DIR OF ONRAMP PRGMS'],
+"Woodley, Michael Joseph",M,CLIN ASST PROF,Computer Science,KP,Grainger Engineering,1,1,85000,88400,M,AA,,
+"Xu, Tianyin",M,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,139000,144560,P,AA,,['Electrical & Computer Eng']
+"Yang, Yun",M,ASSOC PROF,Statistics,KV,Liberal Arts & Sciences,1,1,119120.65,130000.48,A,AA,,
+"Yu, Albert",M,CLIN ASST PROF,Statistics,KV,Liberal Arts & Sciences,1,1,69516.1,90000,,AA,,
+"Yuile, Adam Bates",M,ASSOC PROF,Computer Science,KP,Grainger Engineering,1,1,153000,161120,A,AA,"['ASSOC PROF, ITI']","['Electrical & Computer Eng', 'Information Trust Institute']"
+"Zhai, Chengxiang",M,PROF,Computer Science,KP,Grainger Engineering,1,1,200000,208500,A,AA,"['WILLETT FACULTY SCHOLAR', 'PROF, IGB']","['Statistics', 'Institute for Genomic Biology', 'Information Sciences']"
+"Zhang, Lingming",M,ASSOC PROF,Computer Science,KP,Grainger Engineering,1,1,155000,163200,A,AA,,
+"Zhao, Han",M,ASST PROF,Computer Science,KP,Grainger Engineering,1,1,136000,141440,P,AA,,['Electrical & Computer Eng']
+"Zhao, Sihai Dave",M,ASSOC PROF,Statistics,KV,Liberal Arts & Sciences,1,1,135475.46,141247.33,A,AA,"['ASSOC PROF, CI MED', 'AFFILIATE, IGB', 'ASST DIR, COMPUTATIONAL GNMCS']","['Biomed & Translational Sci', 'Bioengineering', 'Institute for Genomic Biology', 'Interdis Health Sci Institute']"
+"Zhu, Ruoqing",M,ASSOC PROF,Statistics,KV,Liberal Arts & Sciences,1,1,117159.38,125845.76,A,AA,"['ASSOC PROF, CI MED', 'AFFILIATE, IGB', 'ASSOC PROF, NCSA']","['Biomed & Translational Sci', 'Institute for Genomic Biology', 'Supercomputing Applications']"
+"Zilles, Craig",M,PROF,Computer Science,KP,Grainger Engineering,1,1,185000,192400,A,AA,['SEVERNS FAC SCHOLAR'],

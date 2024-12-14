@@ -1,0 +1,5 @@
+pillow
+numpy
+pandas
+jupyter2pytest
+pytest
